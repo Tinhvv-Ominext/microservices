@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f777953-9177-41b9-9da1-25d89bc98f5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/service-authen/src/main/java/com/sample/authenservice/AuthenServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-authen/src/main/java/com/sample/authenservice/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-authen/src/main/java/com/sample/authenservice/models/_pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-authen/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-authen/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-authen/src/main/java/com/omi/demo/JavaDemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-authen/src/main/java/com/omi/demo/controllers/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-authen/src/main/java/com/sample/authenservice/controllers/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-authen/src/main/java/com/omi/demo/controllers/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-authen/src/main/java/com/omi/demo/models/EnumRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-authen/src/main/java/com/omi/demo/models/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-authen/src/main/java/com/omi/demo/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-authen/src/main/java/com/sample/authenservice/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-authen/src/main/java/com/omi/demo/payload/request/LoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-authen/src/main/java/com/sample/authenservice/payload/request/LoginRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-authen/src/main/java/com/omi/demo/payload/request/SignUpRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-authen/src/main/java/com/sample/authenservice/payload/request/SignUpRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-authen/src/main/java/com/omi/demo/payload/response/JwtResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-authen/src/main/java/com/sample/authenservice/payload/response/JwtResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-authen/src/main/java/com/omi/demo/payload/response/MessageResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-authen/src/main/java/com/sample/authenservice/payload/response/MessageResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-authen/src/main/java/com/omi/demo/repository/RoleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-authen/src/main/java/com/omi/demo/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-authen/src/main/java/com/sample/authenservice/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-authen/src/main/java/com/omi/demo/security/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-authen/src/main/java/com/sample/authenservice/security/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-authen/src/main/java/com/omi/demo/security/jwt/AuthEntryPointJwt.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-authen/src/main/java/com/sample/authenservice/security/jwt/AuthEntryPointJwt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-authen/src/main/java/com/omi/demo/security/jwt/AuthTokenFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-authen/src/main/java/com/sample/authenservice/security/jwt/AuthTokenFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-authen/src/main/java/com/omi/demo/security/jwt/JwtUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-authen/src/main/java/com/sample/authenservice/security/jwt/JwtUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-authen/src/main/java/com/omi/demo/security/services/UserDetailsImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-authen/src/main/java/com/sample/authenservice/security/services/UserDetailsImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-authen/src/main/java/com/omi/demo/security/services/UserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-authen/src/main/java/com/sample/authenservice/security/services/UserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-authen/src/main/java/com/omi/demo/security/services/UserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-authen/src/main/java/com/sample/authenservice/security/services/UserDetailsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-authen/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service-authen/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-authen/src/test/java/com/omi/demo/JavaDemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-authen/src/test/java/com/sample/authenservice/JavaDemoApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/service-authen" />
+  </component>
+  <component name="ProjectId" id="1mNCnSdkfO4b4NUAhWraFokvx9w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f777953-9177-41b9-9da1-25d89bc98f5e" name="Default Changelist" comment="" />
+      <created>1609324828686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609324828686</updated>
+      <workItem from="1609324829811" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

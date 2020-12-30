@@ -1,0 +1,13 @@
+package com.example.servicearticle;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ServiceArticleApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
